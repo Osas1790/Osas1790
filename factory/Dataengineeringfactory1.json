@@ -1,0 +1,9 @@
+{
+	"name": "Dataengineeringfactory1",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a5f3bc3-0a39-4832-a7e9-c98774e2acba",
+		"tenantId": "cbba1a18-e686-4c97-a40f-8abcadfa7759"
+	}
+}
